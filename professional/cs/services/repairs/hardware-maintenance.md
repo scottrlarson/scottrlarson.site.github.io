@@ -1,0 +1,29 @@
+#Hardware Maintenance
+
+Desktops and laptops can suffer from shutdowns, boot failures, Blue Screen errors, and system crashes related to blocked ventilation or misconfigured hardware. Protect your computer from damage.
+
+**If you ever have heard of term planned obsolescence? Did you know that Computer Manufacturers create Design flaws that decrease the life of your device so you have to purchase a new one a year or two later? Here's how:**
+
+- Ventilation ports that allow the heat to dissipate from the hardware get clogged with dust, dirt, hair, and other particles. This causes the device to over-heat and shutdown, decreasing the life of the computer.
+- Heat-sinks that distribute the flow of heat from hardware components have mounts that are made out of plastic and break over time causing the heat-sink to fall off and cause damage to the hardware.
+- Thermal paste that distributes the heat between the Processor and the heat sink is low quality becomes brittle over a short time. This process doesn't allow the hardware to remain at its optimum cooling temperature causing overheating and damage to the device.
+- Setting the processor's clock at speeds the cooling systems cant handle causes overheating, and over time this excessive overheating causes the hardware to fail.
+
+**If your computer is getting to hot to the touch or you find its shutting down after a short period of use, your computer could need some proper hardware care or a design flaw analysis and resolution.**
+
+Excessive overheating for long periods of time can:
+
+- Shorten the life of your computer's or laptop's circuitry, causing instability that results in expensive hardware replacements.
+- Your laptop battery's life can be shortened significantly or your battery can even exploded due to heat caused by over charging.
+
+
+**Here is what I can do to solve many of these problems:**
+
+- Diagnose the device to identify these problems.
+- Perform a comprehensive cleaning of the ventilation ports s involved in cooling the unit.
+- Apply high quality thermal solutions that keep the hardware free of overheating over a much longer period of time.
+- Return the Processor settings to a normal state of operation to prevent heat damage.
+
+I offer a free check-up to determine the cause of your issue. If I cant fix your problem you don't pay.
+
+Service Price: $70.00
