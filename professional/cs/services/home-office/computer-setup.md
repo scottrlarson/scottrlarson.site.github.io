@@ -1,0 +1,8 @@
+#Computer Setup
+
+If you need help installing a new piece of equipment like a scanner or if you have a new program that you would like help installing, Scott Larson offers friendly support with all types of installations. He sits down with you, listens to your needs and walks you through the setup. Even if you don't want to know or care about how it works Scott Larson can still help you get the best out of your computer.
+
+- This fee is for the initial Installation, some or multiple installations take more time per hour.
+
+
+Service Rate: $125.00
