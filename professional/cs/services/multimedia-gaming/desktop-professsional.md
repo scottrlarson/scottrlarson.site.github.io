@@ -1,0 +1,6 @@
+#Desktops for Professionals
+
+If you are a Graphic Designer, Photoshop Expert, 3D modeler, Videographer, Business Consultant, or Web Developer you are going to need a stable top of the line computer system. I offer custom computer systems built with quality hardware specifications specific for the task at hand. When you purchase a new computer from an OEM provider they usually offer limited choices, using the "one size fits all" approach. The result is a computer system built with standardized hardware options. Standardizing hardware choices bring down the cost for the OEM and the buyer but cause problems with stability and performance in the long run for those who need it.
+For instance: A professional desktop solution may be strong in video display options, but weaker in storage performance. This causes a bottle neck in the overall performance of the computer which can slow down productivity significantly. See my "Production Workstation Hardware & Performance Specification" for more information about having a system built for your specific requirements.
+
+Call me for a quote at 707-536-1527
