@@ -18,8 +18,8 @@ Serviced the Santa Rosa community in the following ways:
 2000 - 2006 Sonic.com DVD Authoring Software - Computer/Network Support
 
 - Provided Desktop Support for Employee's onsite and offsite
-- Maintained Microsft and Linux Web Servers
-- Mainined Diaster Recovery and Employee Work Data Backups
+- Maintained Microsoft and Linux Web Servers
+- Maintained Disaster Recovery and Employee Work Data Backups
 
 ##Professional Project History
 
