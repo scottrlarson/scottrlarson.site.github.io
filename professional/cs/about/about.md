@@ -13,9 +13,13 @@ Serviced the Santa Rosa community in the following ways:
 
 2009 - 2006 Sonic.net Internet Service Provider - Customer Service
 
+- Provided Email and Phone Support for Customers
 
 2000 - 2006 Sonic.com DVD Authoring Software - Computer/Network Support
 
+- Provided Desktop Support for Employee's onsite and offsite
+- Maintained Microsoft and Linux Web Servers
+- Maintained Disaster Recovery and Employee Work Data Backups
 
 ##Professional Project History
 
