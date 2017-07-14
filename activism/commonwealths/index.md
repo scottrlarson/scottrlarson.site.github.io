@@ -5,6 +5,8 @@ tagline: Commonwealths - Communities participating together for the good of all
 ---
 The rights to all content on this site is "without predudice" and "under reserve". Bound only by the natural laws of the universe.
 
+Below is a partial table of contents that exists in this github repository directory that I plan on making links out of.
+
 
 
 - Commonwealths
