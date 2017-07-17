@@ -1,6 +1,7 @@
 #War on Consciousness 
 
 Accepting untruths and to distract humanity from reaching its ultimate positive potential.
+
 ##Obfuscation 
 
 Confusing the public on general knowledge, turn it upside down.
