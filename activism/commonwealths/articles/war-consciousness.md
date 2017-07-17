@@ -1,4 +1,4 @@
-#War on conscience 
+#War on Consciousness 
 
 Accepting untruths and to distract humanity from reaching its ultimate positive potential.
 ##Obfuscation 
