@@ -3,9 +3,9 @@ layout: page
 title: Scott Larson's Interests Gateway
 tagline:
 ---
-#Scott Larson's Interests Gateway
+# Scott Larson's Interests Gateway
 
-##Contact
+## Contact
 
 Scott Larson  
 707-536-1527  
