@@ -12,10 +12,4 @@ Scott Larson
 slarson@scottrlarson.com  
 
 You have reached Scott Larson's Portal.
-I am orginally from Chicago, in 1985 I moved to Santa Rosa, California to get into the computer field. I have been involved in a wide range of techical fields: Comuter Repair, Data Recovery, Information Services, Content Development, Truth Activisim, Truth Awareness, Self-Inner Healing, and many more.
-
-Currently I participate in a range of interests:
-
-- [Professional](professional/)
-- [Hobbies](hobbies/)
-- [Activism](activism/)
+I am orginally from Chicago, in 1985 I moved to Santa Rosa, California to get into the computer field. I am involved in a wide range of [professional](professional/), [hobby](hobbies/) and [activism](activism/) fields: Computer Repair, Data Recovery, Information Services, Content Development, Truth Activisim, Truth Awareness, Self-Inner Healing, and many more.
