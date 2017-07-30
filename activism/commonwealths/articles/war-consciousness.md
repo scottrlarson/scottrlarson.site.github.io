@@ -1,5 +1,5 @@
 ---
-title: War on Consciousness
+title: Document Center
 ---
 
 # War on Consciousness 
