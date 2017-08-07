@@ -198,7 +198,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-theme-slate
+  kramdown (= 1.13.2)
 
 BUNDLED WITH
    1.15.3
