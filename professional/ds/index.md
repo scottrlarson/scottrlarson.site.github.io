@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Scott Larson
+title: Data Services | Scott Larson
 tagline: Connecting your world by simplifying technology
 ---
 
-I provide technology services to the community of Santa Rosa, California. I am currently transitioning my services to the community of San Jose, California and I expect to be moved by the end of August 2017. I can provide remote and phone based services anywhere in California.
-My list of services include:
+#Data Services
 
-- [Computer Setup & Repair](cd/index.html)
-- [Data Management & Recovery](ds/index.html)
-- [Content Development](cs/index.html)
-- [Information Services](is/index.html)
+I provide technology services to the community of Santa Rosa, California. I am currently transitioning my services to the community of San Jose, California and I expect to be moved by the end of August 2017. I can provide remote and phone based services anywhere in California.
+My list of data services include:
+
+- [Data Recovery]()
+- [Data Management]()
+- [Backup & Disaster Recovery Planning/Setup]()
+- [Long term Storage & Archival Consulting]()
